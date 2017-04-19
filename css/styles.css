@@ -1,0 +1,14 @@
+.column {
+  float: left;
+  width: 300px;
+  padding: 20px;
+}
+
+h1 {
+  text-align: left;
+  margin-left: 15px;
+}
+
+body {
+  background-color: rgb(200, 190, 145);
+}
