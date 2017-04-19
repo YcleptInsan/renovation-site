@@ -1,7 +1,8 @@
-.column {
+.column-1 {
   float: left;
   width: 300px;
   padding: 20px;
+  background-color: rgb(240, 240, 220);
 }
 
 h1 {
@@ -11,4 +12,17 @@ h1 {
 
 body {
   background-color: rgb(200, 190, 145);
+}
+
+.column-2 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+}
+
+.column-3 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+  background-color: rgb(120, 120, 110);
 }
